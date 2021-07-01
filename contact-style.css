@@ -1,0 +1,150 @@
+body {
+  font-size: 62.5%;
+  font-family: "Lato", sans-serif;
+  font-weight: 600;
+  color: gainsboro;
+  background:rgba(18,18,26,1);
+  background-image:url('https://i.pinimg.com/originals/ff/34/3a/ff343aa8819c2573ad3409baf4af5e3e.gif');
+  background-blend-mode:overlay;
+  background-size:100%;
+   background-attachment: fixed;
+}
+body section {
+  margin: 60px auto;
+  text-align: center;
+  padding: 30px 0 90px;
+  width: 80%;
+  max-width: 500px;
+   background-image:url('https://i.pinimg.com/originals/ff/34/3a/ff343aa8819c2573ad3409baf4af5e3e.gif');
+  background-blend-mode:overlay;
+  background-size:100%;
+   background-attachment: fixed;
+}
+body section h1 {
+  margin-bottom: 40px;
+  font-size: 5em;
+  text-transform: uppercase;
+  font-family: fantasy;
+  font-weight: 200;
+  color: #A4E06E;
+}
+
+form {
+  width: 58.3333333333%;
+  margin: 0 auto;
+}
+form .field {
+  width: 100%;
+  position: relative;
+  margin-bottom: 15px;
+}
+form .field label {
+  text-transform: uppercase;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #575A54;
+  width: 100%;
+  padding: 18px 0;
+  font-size: 1.45em;
+  letter-spacing: 0.075em;
+  border-radius: 30px;
+  -webkit-transition: all 333ms ease-in-out;
+  -moz-transition: all 333ms ease-in-out;
+  -o-transition: all 333ms ease-in-out;
+  -ms-transition: all 333ms ease-in-out;
+  transition: all 333ms ease-in-out;
+}
+form .field label + span {
+  font-family: "SSStandard";
+  opacity: 0;
+  color: white;
+  display: block;
+  position: absolute;
+  top: 12px;
+  left: 7%;
+  font-size: 2.5em;
+  text-shadow: 1px 2px 0 #0000e9;
+  -webkit-transition: all 333ms ease-in-out;
+  -moz-transition: all 333ms ease-in-out;
+  -o-transition: all 333ms ease-in-out;
+  -ms-transition: all 333ms ease-in-out;
+  transition: all 333ms ease-in-out;
+}
+form .field input[type=text],
+form .field textarea {
+  border: none;
+  border-radius: 30px;
+  background: #DBEFCA;
+  width: 80.5%;
+  margin: 0;
+  padding: 18px 0;
+  padding-left: 19.5%;
+  color: #969696;
+  font-size: 1.4em;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+form .field input[type=text]#msg,
+form .field textarea#msg {
+  height: 16px;
+  resize: none;
+  -webkit-transition: all 333ms ease-in-out;
+  -moz-transition: all 333ms ease-in-out;
+  -o-transition: all 333ms ease-in-out;
+  -ms-transition: all 333ms ease-in-out;
+  transition: all 333ms ease-in-out;
+}
+form .field input[type=text]:focus, form .field input[type=text].focused,
+form .field textarea:focus,
+form .field textarea.focused {
+  outline: none;
+}
+form .field input[type=text]:focus#msg, form .field input[type=text].focused#msg,
+form .field textarea:focus#msg,
+form .field textarea.focused#msg {
+  padding-bottom: 150px;
+}
+form .field input[type=text]:focus + label, form .field input[type=text].focused + label,
+form .field textarea:focus + label,
+form .field textarea.focused + label {
+  width: 18%;
+  background: #5050ff;
+  color: #969696;
+}
+form .field input[type=text].focused + label,
+form .field textarea.focused + label {
+  color: #5050ff;
+}
+form .field:hover label {
+  width: 18%;
+  background: #969696;
+  color: white;
+}
+form input[type=submit] {
+  border-radius: 30px;
+  background: #A4E06E;
+  color: white;
+  -webkit-appearance: none;
+  border: none;
+  text-transform: uppercase;
+  position: relative;
+  padding: 13px 50px;
+  font-size: 1.4em;
+  letter-spacing: 0.4em;
+  font-family: "Lato", sans-serif;
+  font-weight: 600;
+  -webkit-transition: all 333ms ease-in-out;
+  -moz-transition: all 333ms ease-in-out;
+  -o-transition: all 333ms ease-in-out;
+  -ms-transition: all 333ms ease-in-out;
+  transition: all 333ms ease-in-out;
+}
+form input[type=submit]:hover {
+  background: #4A6B2E;
+  color: white;
+}
+form input[type=submit]:focus {
+  outline: none;
+  background: #0000e9;
+}
