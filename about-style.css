@@ -1,0 +1,62 @@
+@import "https://fonts.googleapis.com/css?family=Rozha+One";
+.container-wrapper {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:rgba(18,18,26,1);
+  background-image:url('https://i.pinimg.com/originals/ff/34/3a/ff343aa8819c2573ad3409baf4af5e3e.gif');
+  background-blend-mode:overlay;
+  background-size:100%;
+   background-attachment: fixed;
+}
+
+.container {
+  max-width: 80%;
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .container {
+    max-width: 50%;
+  }
+}
+@media (min-width: 1024px) {
+  .container {
+    max-width: 38%;
+  }
+}
+
+body {
+  color: white;
+}
+
+h1 {
+  font-family: "Rozha One", serif;
+  font-size: 3rem;
+}
+
+p {
+  font-size: 1.05rem;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 30px 0;
+}
+ul li {
+  display: inline-lock;
+  float: left;
+  width: 30%;
+}
+ul a {
+  color: #D22351;
+  diplay: block;
+  width: 100;
+  padding: 15px 0;
+  text-decoration: none;
+}
+ul a:hover {
+  color: #bc1f49;
+}
