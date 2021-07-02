@@ -1,4 +1,4 @@
-# GARDENIA
+# GARDENIA - Bringing Gardens To Your Home 
 Name of the team: <strong>Team Phoenix</strong>\
 Number of members in a team: Three (3)\
 College(s): Vellore Institute of Technology, Jamia Millia Islamia\
