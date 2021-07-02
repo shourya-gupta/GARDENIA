@@ -1,7 +1,7 @@
 # GARDENIA - Bringing Gardens To Your Home 
-Name of the team: <strong>Team Phoenix</strong>\
-Number of members in a team: Three (3)\
-College(s): Vellore Institute of Technology, Jamia Millia Islamia\
+Name of the team: <strong>Team Phoenix</strong>
+Number of members in a team: Three (3)
+College(s): Vellore Institute of Technology, Jamia Millia Islamia
 Theme of the project: Open-innovation
 
 <h4><strong>Details of all Team Members:</strong></h4>  
@@ -20,8 +20,8 @@ Theme of the project: Open-innovation
 <br>
  
 <h3><strong>Detailed explanation:</strong></h3>
-We present our unique idea THE GARDENIA.\
-As each and every plant requires adequate temperature, humidity, and perfect soil for its growth. We implement our idea keeping these utmost important requirements in mind.\
+We present our unique idea THE GARDENIA.
+As each and every plant requires adequate temperature, humidity, and perfect soil for its growth. We implement our idea keeping these utmost important requirements in mind.
 Our <strong>GARDENIA</strong> imbibes various features as listed below:
 1.	<strong>GARDEN GUIDE</strong> – This is the very first feature we brough out in front. It works in different phases.
 <ul>
