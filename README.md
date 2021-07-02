@@ -10,9 +10,7 @@ Theme of the project: Open-innovation
     <li>Ritik Vashist, Jamia Millia Islamia</li>
     <li>Kshitij Dwivedi, Jamia Millia Islamia</li>
 </ul>
-
 <br>
-
 <h4><strong>Discord usernames of Team Members:</strong></h4> 
 <ul>
     <li>Shourya Gupta #1829</li>
