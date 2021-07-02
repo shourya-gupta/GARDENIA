@@ -1,8 +1,8 @@
-# GARDENIA - Bringing Gardens To Your Home 
-Name of the team: <strong>Team Phoenix</strong>
-Number of members in a team: Three (3)
-College(s): Vellore Institute of Technology, Jamia Millia Islamia
-Theme of the project: Open-innovation
+# GARDENIA - Bringing Gardens To Your Home <br>
+Name of the team: <strong>Team Phoenix</strong><br>
+Number of members in a team: Three (3)<br>
+College(s): Vellore Institute of Technology, Jamia Millia Islamia<br>
+Theme of the project: Open-innovation<br>
 
 <h4><strong>Details of all Team Members:</strong></h4>  
 <ul>
