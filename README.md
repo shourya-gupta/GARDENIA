@@ -83,7 +83,7 @@ Our solution works on suggesting customized plants for the user. We do this by t
 <br>
 
 <h3><strong>Step by Step Procedure to run the project on the local machine:</strong></h3>
-<p>You can simply visit our website hosted on 000webshost: 	</p>
+<p>You can simply visit our website hosted on 000webshost: 	https://thegardenia.000webhostapp.com/</p>
 <ol>
     <li>Install XAMPP server.</li>
     <li>Change connection.php file, replace username, password, server - based on your local machine.</li>
