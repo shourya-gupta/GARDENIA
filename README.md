@@ -1,15 +1,15 @@
 # GARDENIA
-Name of the team: Team Phoenix
-Number of members in a team: Three (3)
-College(s): Vellore Institute of Technology, Jamia Millia Islamia
-Theme of the project: Open-innovation
-Details of all Team Members:
-   Shourya Gupta
-    Vellore Institute of Technology, Chennai
-   Ritik Vashist 
-    Jamia Millia Islamia
-   Kshitij Dwivedi
-    Jamia Millia Islamia
+Name of the team: Team Phoenix\
+Number of members in a team: Three (3)\
+College(s): Vellore Institute of Technology, Jamia Millia Islamia\
+Theme of the project: Open-innovation\
+Details of all Team Members:\
+   Shourya Gupta\
+    Vellore Institute of Technology, Chennai\
+   Ritik Vashist\ 
+    Jamia Millia Islamia\
+   Kshitij Dwivedi\
+    Jamia Millia Islamia\
 
 Discord usernames of Team Members: 
    Shourya Gupta #1829
