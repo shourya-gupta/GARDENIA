@@ -12,7 +12,14 @@
 
       if(mysqli_query($conn,$sql)){
          echo "<script> alert('REGISTERED SUCCESSFULLY!'); </script>";
-         header("Refresh:0; url=../login/login.html",  true, 303);
+         echo "<script>
+
+         setTimeout(function()
+         { 
+              window.location = '../login/login.html'; 
+         }, 200);
+         
+         </script>";
       }
       else{
          echo "Error" . mysqli_error($conn);
