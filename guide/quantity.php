@@ -57,7 +57,7 @@
                                             //echo $c;
                                             //echo $area;
                                             $sql ="SELECT DISTINCT(PSR.Plant_ID) AS 'PLANT ID', P.Plant_Name AS 'PLANTS FOR YOU', P.area_req AS 'AREA'
-                                            FROM plant_soil_region PSR, region_data R, soil_data S, Plant_data P
+                                            FROM plant_soil_region PSR, region_data R, soil_data S, plant_data P
                                             WHERE PSR.region_id = ( SELECT R.region_id FROM region_data R WHERE Region = '$c' ) 
                                               AND PSR.soil_id = ( SELECT S.soil_id FROM soil_data S WHERE soil_name = '$s') 
                                               AND P.area_req < $area
