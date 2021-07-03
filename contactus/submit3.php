@@ -10,7 +10,14 @@
       if(mysqli_query($conn,$sql))
       {
          echo "<script>alert('Thank you for contacting us will get in touch to you soon');</script>";
-         header("Refresh:0; url=../index.html",  true, 303);
+         echo "<script>
+
+         setTimeout(function()
+         { 
+              window.location = '../index.html'; 
+         }, 200);
+         
+         </script>";
       }
       else
       {
