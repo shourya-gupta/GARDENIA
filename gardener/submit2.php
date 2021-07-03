@@ -8,7 +8,14 @@
 
       if(mysqli_query($conn,$sql))
       {
-      	header('location:available-mechanic.html');
+      	echo "<script>
+
+         setTimeout(function()
+         { 
+              window.location = '../gardener/available-gardeners.html'; 
+         }, 200);
+         
+         </script>";
       }
       else
       {
